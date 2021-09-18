@@ -47,4 +47,8 @@ function draw() {
   if (Math.floor(disX / 512) > 1) {
     alert(`get new image ${Math.floor(disX / 512)}`);
   }
+
+  function nothing(){
+    // this function does nothing
+  }
 }
